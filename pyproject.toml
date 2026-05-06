@@ -1,0 +1,15 @@
+[project]
+name = "examen-final-peter"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.10.8",
+    "nba-api>=1.11.4",
+    "pandas>=3.0.1",
+    "plotly>=6.5.2",
+    "scikit-learn>=1.8.0",
+    "statsmodels>=0.14.6",
+    "tensorflow>=2.21.0",
+]
